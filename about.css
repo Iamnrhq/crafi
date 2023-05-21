@@ -1,0 +1,27 @@
+*{
+    font-family: "Brandon Text";
+}
+
+p{
+    font-size: 19px;
+    color: #bcbcbc;
+}
+
+.txt-1{
+    color: #b8b197;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 34px;
+}
+
+.txt-2{
+    color: #bcbcbc;
+    font-size: 18px;
+    padding-top: 26px;
+}
+.centered-element {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
