@@ -1,0 +1,18 @@
+a {
+    color: black;
+}
+body{
+    font-family: "BrandonText-Light";
+}
+
+@import url(https://db.onlinewebfonts.com/c/749ba57b431f4eba8b31eb57d5aab83e?family=BrandonText-Medium);
+
+@font-face {
+    font-family: "BrandonText-Light";
+    src: url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.eot");
+    src: url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/749ba57b431f4eba8b31eb57d5aab83e.svg#BrandonText-Medium")format("svg");
+}
